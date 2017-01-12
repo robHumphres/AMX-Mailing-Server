@@ -1,0 +1,10 @@
+C:\Users\rhumphres\Documents\Visual Studio 2015\Projects\Amx_Emailing_Service\Amx_Emailing_Service\bin\Debug\Amx_Emailing_Service.exe.config
+C:\Users\rhumphres\Documents\Visual Studio 2015\Projects\Amx_Emailing_Service\Amx_Emailing_Service\bin\Debug\Amx_Emailing_Service.exe
+C:\Users\rhumphres\Documents\Visual Studio 2015\Projects\Amx_Emailing_Service\Amx_Emailing_Service\obj\Debug\Amx_Emailing_Service.csprojResolveAssemblyReference.cache
+C:\Users\rhumphres\Documents\Visual Studio 2015\Projects\Amx_Emailing_Service\Amx_Emailing_Service\obj\Debug\Amx_Emailing_Service.csproj.ResolveComReference.cache
+C:\Users\rhumphres\Documents\Visual Studio 2015\Projects\Amx_Emailing_Service\Amx_Emailing_Service\obj\Debug\Amx_Emailing_Service.Form1.resources
+C:\Users\rhumphres\Documents\Visual Studio 2015\Projects\Amx_Emailing_Service\Amx_Emailing_Service\obj\Debug\Amx_Emailing_Service.Getting_Started.resources
+C:\Users\rhumphres\Documents\Visual Studio 2015\Projects\Amx_Emailing_Service\Amx_Emailing_Service\obj\Debug\Amx_Emailing_Service.Properties.Resources.resources
+C:\Users\rhumphres\Documents\Visual Studio 2015\Projects\Amx_Emailing_Service\Amx_Emailing_Service\obj\Debug\Amx_Emailing_Service.csproj.GenerateResource.Cache
+C:\Users\rhumphres\Documents\Visual Studio 2015\Projects\Amx_Emailing_Service\Amx_Emailing_Service\obj\Debug\Amx_Emailing_Service.exe
+C:\Users\rhumphres\Documents\Visual Studio 2015\Projects\Amx_Emailing_Service\Amx_Emailing_Service\obj\Debug\Amx_Emailing_Service.pdb
